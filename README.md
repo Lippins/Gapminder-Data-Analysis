@@ -30,3 +30,10 @@ Africa seems affected by increasing birth rates (4 or more children per woman) t
 
 Are these observations enough to classify Africa as a developing continent? It depends. Further analysis shows that not all regions of Africa record low values in human development and life expectancy. Sub-Sahara Africa is where the lowest values of these metrics are recorded. Perhaps, if the continent can capitalize on its high employment rate and embrace technological advancement, the continent could catch up to the rest of the world. <br><br>
 <img src='./images/subcont_var.png' height='500px'>
+
+## Python Libraries Used
+- [Numpy](https://numpy.org)
+- [Pandas](https://pandas.pydata.org)
+- [Matplotlib](https://matplotlib.org)
+- [Seaborn](https://seaborn.pydata.org)
+- [Joypy](https://github.com/leotac/joypy)
