@@ -22,3 +22,11 @@ Specifically, the project uses the gathered data to answer three questions:
 - What specific metric patterns are common in developed continents and how do they differ from the developing world?
 - In the context of the time period analyzed, is it fair to say that Africa is still a developing continent?
 - If the second question evaluates true, is the whole of Africa still developing, or only specific parts?
+
+## Key Findings and Conclusion
+Human development and life expectancy are highest in Europe and lowest in Africa. Infact, analysis showed that every other continent is better than Africa with regards to these metrics. 
+
+Africa seems affected by increasing birth rates (4 or more children per woman) than many of the worlds other continents. Increasing birth rates do not correlate in a positive way with human development. In developed countries where birth control is the norm, increased quality of life is associated with decreasing fertility rates.
+
+Are these observations enough to classify Africa as a developing continent? It depends. Further analysis shows that not all regions of Africa record low values in human development and life expectancy. Sub-Sahara Africa is where the lowest values of these metrics are recorded. Perhaps, if the continent can capitalize on its high employment rate and embrace technological advancement, the continent could catch up to the rest of the world. <br><br>
+<img src='./images/subcont_var.png' height='500px'>
